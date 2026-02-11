@@ -8,4 +8,4 @@ Sub-action: Execute Code
 If using this, replace 'rainstormwander' with your own channel name:
 
 // variable to check for clip syntax for a specific channel
-string substringClip = "www.twitch.tv/rainstormwander";
+string substringClip = "www.twitch.tv/rainstormwander"; 
