@@ -6,7 +6,7 @@ Moderators and VIPs will be able to post any link.
 **Trigger:** Twitch > Chat > Chat Message  
 **Sub-action:** Execute Code  
 
-If using this, replace `'rainstormwander'` with your own channel name:
+If using this script, replace `'rainstormwander'` with your own channel name:
 
 ```csharp
 // variable to check for clip syntax for a specific channel
